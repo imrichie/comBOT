@@ -1,5 +1,4 @@
-# comBOT
-19 lines (13 sloc)  2.11 KB
+## comBOT
 This app was created in a 36 hour long hackathon at California Institute of Technology.
 
 ## What it does
